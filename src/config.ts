@@ -1,18 +1,18 @@
 export const config = {
     developer: {
-        name: "Huzaif",
-        fullName: "Huzaif Ahmed",
+        name: "Rudra",
+        fullName: "Rudra Shah",
         title: "Full Stack Developer",
-        description: "Full-stack builder creating digital experiences that respect humans and scale with clarity. Accessibility is my north star."
+        description: "I don’t just design — I build digital dominance. I’m a multidisciplinary creator merging premium aesthetics, AI innovation, and full-stack engineering. From high-end branding, UI/UX, 3D design, and cinematic content to AI automation and intelligent chatbots, I craft experiences that feel elite. My work isn’t about trends — it’s about impact, precision, and authority. I create digital products that make brands look unforgettable and businesses look unstoppable. If you want someone who thinks beyond the obvious and delivers beyond expectations — Let’s build something extraordinary."
     },
     social: {
-        github: "huzaifahmedz",
-        email: "dev.huzaif@gmail.com",
+        github: "genius-398",
+        email: "shahrudra53@gmail.com",
         location: "India"
     },
     about: {
         title: "About Me",
-        description: "Full-stack builder creating digital experiences that respect humans and scale with clarity. Accessibility is my north star. I specialize in building modern web applications with React, Node.js, and cutting-edge technologies."
+        description: "I don’t just design — I build digital dominance. I’m a multidisciplinary creator merging premium aesthetics, AI innovation, and full-stack engineering. From high-end branding, UI/UX, 3D design, and cinematic content to AI automation and intelligent chatbots, I craft experiences that feel elite. My work isn’t about trends — it’s about impact, precision, and authority. I create digital products that make brands look unforgettable and businesses look unstoppable. If you want someone who thinks beyond the obvious and delivers beyond expectations — Let’s build something extraordinary."
     },
     experiences: [
         {
@@ -20,7 +20,7 @@ export const config = {
             company: "SelectSkillSet",
             period: "2024 - Present",
             location: "Remote",
-            description: "Developing modern, responsive frontend applications with focus on user experience and performance. Working with cutting-edge technologies to build scalable web solutions.",
+            description: "Leading the charge in AI innovation and creative design",
             responsibilities: [
                 "Building responsive and interactive user interfaces using React and Next.js",
                 "Implementing modern UI/UX designs with TailwindCSS and Framer Motion",
@@ -34,7 +34,7 @@ export const config = {
             company: "Tekisky",
             period: "2023 - 2024",
             location: "Remote",
-            description: "Developed and maintained full-stack web applications, working on both frontend and backend systems. Collaborated with cross-functional teams to deliver robust software solutions.",
+            description: "Mastering the art of digital transformation and user-centric visuals",
             responsibilities: [
                 "Developed and maintained full-stack web applications using React, Node.js, and MongoDB",
                 "Implemented RESTful APIs and integrated third-party services",
@@ -47,58 +47,49 @@ export const config = {
     projects: [
         {
             id: 1,
-            title: "AI-Powered Code Review Assistant",
-            category: "Full Stack",
-            technologies: "Python, TensorFlow, React, FastAPI, PostgreSQL, Docker",
-            image: "/images/project-1.webp"
+            title: "AI Chatbot",
+            category: "AI",
+            technologies: "Building smarter bots that talk like humans",
+            image: "/images/ai chatbot.webp"
         },
         {
             id: 2,
-            title: "Real-time Collaborative Whiteboard",
-            category: "Full Stack",
-            technologies: "TypeScript, WebRTC, Socket.io, Canvas API, Node.js, Redis",
-            image: "/images/project-2.webp"
+            title: "AI Photo Editing",
+            category: "AI",
+            technologies: "Smart tools to make your photos look amazing",
+            image: "/images/ai photo editing.jpg"
         },
         {
             id: 3,
-            title: "Blockchain Voting System",
-            category: "Full Stack",
-            technologies: "Solidity, Web3.js, React, Ethereum, IPFS, MetaMask",
-            image: "/images/project-3.webp"
+            title: "UI Design",
+            category: "Design",
+            technologies: "Crafting beautiful and easy-to-use digital spaces",
+            image: "/images/pp1.jpg"
         },
         {
             id: 4,
-            title: "Cloud Infrastructure Dashboard",
-            category: "Full Stack",
-            technologies: "Go, Kubernetes, Grafana, Prometheus, Terraform, React",
-            image: "/images/project-4.webp"
-        },
-        {
-            id: 5,
-            title: "Neural Network Visualizer",
-            category: "Full Stack",
-            technologies: "Python, TensorFlow.js, D3.js, Next.js, WebGL, TypeScript",
-            image: "/images/project-5.webp"
+            title: "Graphic Design",
+            category: "Design",
+            technologies: "Creating bold visuals that tell a story",
+            image: "/images/whatsapp-graphic-design.jpeg"
         }
     ],
     contact: {
-        email: "dev.huzaif@gmail.com",
-        github: "https://github.com/huzaifahmedz",
-        linkedin: "https://www.linkedin.com",
-        twitter: "https://x.com",
-        instagram: "https://www.instagram.com"
+        email: "shahrudra53@gmail.com",
+        github: "https://github.com/genius-398",
+        linkedin: "https://www.linkedin.com/in/--shah--rudra--398--/"
     },
     skills: {
         develop: {
             title: "DEVELOP",
-            description: "Full-stack development with modern web technologies",
-            details: "Building scalable web applications using React, Node.js, and cutting-edge frameworks. Specializing in creating responsive, performant, and accessible user interfaces.",
+            description: "Full-stack development & intelligent systems",
+            details: "Building scalable web and app solutions using modern technologies and automation. Developing AI-powered systems, smart workflows, and performance-focused applications. Creating responsive, secure, and future-ready digital products from concept to deployment.",
             tools: ["JavaScript", "TypeScript", "React", "Next.js", "Node.js", "Express.js", "MongoDB", "TailwindCSS", "Framer Motion", "Three.js"]
         },
         design: {
             title: "DESIGN",
-            description: "UI/UX design and modern web interfaces",
-            details: "Creating beautiful and intuitive user experiences with focus on accessibility and user-centered design principles.",
+            description: "UI/UX design & creative digital visuals",
+            details: "Crafting user-centered UI/UX experiences with clarity, accessibility, and modern aesthetics. Designing impactful graphics, brand visuals, and high-converting social content. Producing professional video edits and immersive 3D models that bring ideas to life.",
             tools: ["UI Design", "UX Design", "Figma", "Photoshop", "Motion Design", "Responsive Design", "Accessibility", "Prototyping"]
         }
     }
