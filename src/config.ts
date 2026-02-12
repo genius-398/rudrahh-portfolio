@@ -1,18 +1,18 @@
 export const config = {
     developer: {
-        name: "Huzaif",
-        fullName: "Huzaif Ahmed",
+        name: "Rudra",
+        fullName: "Rudra Shah",
         title: "Full Stack Developer",
-        description: "Full-stack builder creating digital experiences that respect humans and scale with clarity. Accessibility is my north star."
+        description: "I don’t just design — I build digital dominance. I’m a multidisciplinary creator merging premium aesthetics, AI innovation, and full-stack engineering. From high-end branding, UI/UX, 3D design, and cinematic content to AI automation and intelligent chatbots, I craft experiences that feel elite. My work isn’t about trends — it’s about impact, precision, and authority. I create digital products that make brands look unforgettable and businesses look unstoppable. If you want someone who thinks beyond the obvious and delivers beyond expectations — Let’s build something extraordinary."
     },
     social: {
-        github: "huzaifahmedz",
-        email: "dev.huzaif@gmail.com",
+        github: "genius-398",
+        email: "shahrudra53@gmail.com",
         location: "India"
     },
     about: {
         title: "About Me",
-        description: "Full-stack builder creating digital experiences that respect humans and scale with clarity. Accessibility is my north star. I specialize in building modern web applications with React, Node.js, and cutting-edge technologies."
+        description: "I don’t just design — I build digital dominance. I’m a multidisciplinary creator merging premium aesthetics, AI innovation, and full-stack engineering. From high-end branding, UI/UX, 3D design, and cinematic content to AI automation and intelligent chatbots, I craft experiences that feel elite. My work isn’t about trends — it’s about impact, precision, and authority. I create digital products that make brands look unforgettable and businesses look unstoppable. If you want someone who thinks beyond the obvious and delivers beyond expectations — Let’s build something extraordinary."
     },
     experiences: [
         {
@@ -82,11 +82,9 @@ export const config = {
         }
     ],
     contact: {
-        email: "dev.huzaif@gmail.com",
-        github: "https://github.com/huzaifahmedz",
-        linkedin: "https://www.linkedin.com",
-        twitter: "https://x.com",
-        instagram: "https://www.instagram.com"
+        email: "shahrudra53@gmail.com",
+        github: "https://github.com/genius-398",
+        linkedin: "https://www.linkedin.com/in/--shah--rudra--398--/"
     },
     skills: {
         develop: {
