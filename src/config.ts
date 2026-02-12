@@ -89,14 +89,14 @@ export const config = {
     skills: {
         develop: {
             title: "DEVELOP",
-            description: "Full-stack development with modern web technologies",
-            details: "Building scalable web applications using React, Node.js, and cutting-edge frameworks. Specializing in creating responsive, performant, and accessible user interfaces.",
+            description: "Full-stack development & intelligent systems",
+            details: "Building scalable web and app solutions using modern technologies and automation. Developing AI-powered systems, smart workflows, and performance-focused applications. Creating responsive, secure, and future-ready digital products from concept to deployment.",
             tools: ["JavaScript", "TypeScript", "React", "Next.js", "Node.js", "Express.js", "MongoDB", "TailwindCSS", "Framer Motion", "Three.js"]
         },
         design: {
             title: "DESIGN",
-            description: "UI/UX design and modern web interfaces",
-            details: "Creating beautiful and intuitive user experiences with focus on accessibility and user-centered design principles.",
+            description: "UI/UX design & creative digital visuals",
+            details: "Crafting user-centered UI/UX experiences with clarity, accessibility, and modern aesthetics. Designing impactful graphics, brand visuals, and high-converting social content. Producing professional video edits and immersive 3D models that bring ideas to life.",
             tools: ["UI Design", "UX Design", "Figma", "Photoshop", "Motion Design", "Responsive Design", "Accessibility", "Prototyping"]
         }
     }
